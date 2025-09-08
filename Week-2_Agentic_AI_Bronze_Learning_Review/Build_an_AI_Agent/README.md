@@ -1,4 +1,4 @@
-The focus of this exercise should be on how it:
+The takeaway from this exercise should be on how it:
 * Connects to the AI Foundry project.
 * Uploads the data file and creates a code interpreter tool that can access it.
 * Creates a new agent that uses the code interpreter tool and has explicit instructions to use Python as necessary for statistical analysis.
